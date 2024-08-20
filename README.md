@@ -1,4 +1,4 @@
-I participated in an automation course where I gained experience with Java and Selenium. 
+I participated at an automation course where I gained experience with Java and Selenium. 
 As part of the course, I developed a project to automate various functionalities on the demoqa.com website. 
 The project includes structured test classes that cover a range of web elements, demonstrating my proficiency in test automation and my understanding of web interaction through automation scripts.
 
